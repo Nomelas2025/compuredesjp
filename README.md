@@ -1,7 +1,5 @@
 # Final Project - Advanced Styling with Responsive Design
 
-This project follows the Coursera/University of Michigan final-project requirements.
-
 ## Included
 - Mobile-first one-column CSS Grid with 10px gap.
 - Tablet breakpoint at 772px with two columns, circular figures, and the last figure spanning both columns.
